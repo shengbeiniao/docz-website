@@ -28,8 +28,8 @@ es
 lib
 stats.html
 build
-dist
 .rpt2_cache
 .cache
 .docz
 site-map.md
+.history
